@@ -1,0 +1,9 @@
+venv/
+# Ignore les fichiers Python compilés
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+# Ignore les fichiers temporaires
+*.log
+*.sqlite
